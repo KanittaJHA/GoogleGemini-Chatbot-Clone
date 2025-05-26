@@ -37,5 +37,4 @@ This project features an elegant dark/light mode UI, chat history persistence, q
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/ai-chatbot-gemini.git
-   cd ai-chatbot-gemini
    ```
